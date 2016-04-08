@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.WindowsAzure.Mobi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.WindowsAzure.Mobile.SQLiteStore", "src\Microsoft.WindowsAzure.MobileServices.SQLiteStore\Microsoft.WindowsAzure.Mobile.SQLiteStore.csproj", "{4C20D49A-FE5E-4D9C-98B9-8125450074F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.WindowsAzure.Mobile.SQLiteAsyncStore", "src\Microsoft.WindowsAzure.Mobile.SQLiteAsyncStore\Microsoft.WindowsAzure.Mobile.SQLiteAsyncStore.csproj", "{62E2D282-A258-439E-8746-8280D2016B53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.WindowsAzure.MobileServices.SQLiteAsyncStore", "src\Microsoft.WindowsAzure.Mobile.SQLiteAsyncStore\Microsoft.WindowsAzure.MobileServices.SQLiteAsyncStore.csproj", "{62E2D282-A258-439E-8746-8280D2016B53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

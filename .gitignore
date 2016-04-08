@@ -18,3 +18,5 @@ e2etest/output/*
 src/**/AppPackages/*
 unittest/**/AppPackages/*
 .vs/
+e2etest/UWP.E2ETest/project.lock.json
+e2etest/UWP.E2ETest/project.lock.json
